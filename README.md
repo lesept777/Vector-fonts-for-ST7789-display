@@ -8,3 +8,5 @@ The Python file (`Test_vector.py`) enables to display some texts using the fonts
 All fonts in the directory `vector_fonts` can also be used.
 
 This was tested on a Lyligo T-Pico C3 device.
+
+![](20221119_171150.jpg)
